@@ -6,7 +6,7 @@ This project combines **AI** and **blockchain** to verify the authenticity of di
 ---
 
 ## **Key Features**
-- **AI-Powered Verification:** Detects deepfakes, manipulated images, and plagiarized text.
+- **AI-Powered Verification:** Detects deepfakes and  manipulated images.
 - **Blockchain Storage:** Stores content hashes and verification results on the blockchain.
 - **Decentralized Storage:** Uses IPFS for secure and tamper-proof content storage.
 - **Token Incentives:** Users earn tokens for submitting content or contributing to the platform.
@@ -24,7 +24,7 @@ This project combines **AI** and **blockchain** to verify the authenticity of di
 ---
 
 ## **How It Works**
-1. Users upload content (images, audio, text, or video).
+1. Users upload content (images and audio).
 2. AI analyzes the content for authenticity.
 3. Verification results and content hashes are stored on the blockchain.
 4. Users can mint verified content as NFTs.
@@ -116,9 +116,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 For questions or feedback, contact:  
-- **Your Name:** [your-email@example.com](mailto:your-email@example.com)  
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Your Name:** [slakshmananlm10@gmail.com](mailto:slakshmananlm10@gmail.com)  
+- **GitHub:** [Lakshmanan195](https://github.com/Lakshmanan195)
 
 ---
 
-This README file includes all necessary commands and sections, making it easy for users to set up, use, and contribute to your project. Let me know if you need further adjustments! 🚀
+This README file includes all necessary commands and sections, making it easy for users to set up, use, and contribute to your project. 
